@@ -1,0 +1,2 @@
+# create-rs
+study rust
